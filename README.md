@@ -19,7 +19,7 @@ Here are the instructions:
     ![image](https://github.com/user-attachments/assets/01c2d261-ed9f-42ad-b58b-28734abc2880)
     in this case it should be  ids = get_ids(5)
 11. run the script using /bin/python3 *path_of_script*/script.py   *replace with the path the script is located
-12. the script will run and save an excel spread sheet of emails it has script in file called 'list.xlsx'
+12. the script will run and save an excel spread sheet of emails it has scraped in file called 'list.xlsx'
 13. Enjoy
 
 If you have any questions or need consultation feel free to email: eraadahmed13@gmail.com
